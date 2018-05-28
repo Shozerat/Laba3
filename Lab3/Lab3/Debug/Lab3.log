@@ -1,0 +1,31 @@
+﻿  Task6.c
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(10): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(25): warning C4013: summ: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(27): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(34): warning C4013: summ2: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(45): warning C4013: print: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(53): warning C4013: findFirstElement: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task6.c(62): warning C4013: findFirstNegativeElement: нет определения; предполагается "extern" с возвратом типа "int"
+  Task5.c
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(4): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(36): error C2084: функция "int findFirstNegativeElement(float)" уже имеет текст реализации
+  c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(16): note: см. предыдущее определение "findFirstNegativeElement"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task5.c(41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Task2.c
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(16): error C2084: функция "double summ2(float)" уже имеет текст реализации
+  c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(3): note: см. предыдущее определение "summ2"
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task2.c(29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Task.c
+c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task.c(11): error C2084: функция "double summ(int)" уже имеет текст реализации
+  c:\users\rufar\onedrive\универ\3 курс\6 семестр\ооп\лабараторные\лабараторная 3\lab3\lab3\task.c(3): note: см. предыдущее определение "summ"
+  Создание кода...
